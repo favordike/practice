@@ -1,0 +1,24 @@
+/*********************tag selector******************/
+body {background-color: #a2d0c1; }
+
+img:hover {background-color:  blue;}
+hr {
+    border-style:  none;
+  border-top-style: dotted;
+  border-width: 10px;
+  border-color: red;
+  width: 20%
+
+}
+
+
+
+
+
+
+
+/*********************class selectors******************/
+.a {background-color:  green;}
+.b {background-color: red;}
+/* the container must be positioned relative: */
+.custom-select {position: relative;}
